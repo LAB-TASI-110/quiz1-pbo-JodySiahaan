@@ -1,0 +1,2 @@
+Membuatkan kode program Untuk soal T03 menggunakan Chat GPT
+Mensalin Soal dari T03 dan memasukkan nya ke dalam Chat GPT untuk meminta kodenya

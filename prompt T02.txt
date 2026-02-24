@@ -1,0 +1,3 @@
+Mensalin soal dari T02 lalu meminta GPT untuk membuatkan kode kodenya
+Mencoba untuk memperbaiki kode nya karna masih ada yang salah
+Mencoba memperbaiki cara untuk menjalankan kodenya
